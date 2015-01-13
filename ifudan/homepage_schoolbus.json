@@ -1,0 +1,17 @@
+[
+	{
+		"from": "H",
+		"to": "F",
+		"from_moment_weekday": [
+			"6:55"
+		],
+		"to_moment_weekday": [
+		],
+		"from_moment_weekend": [
+		],
+		"to_moment_weekend": [
+		],
+		"from_location": "老化学楼东侧",
+		"to_location": "西苑（近8号楼）"
+	}
+]
